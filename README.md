@@ -1,5 +1,5 @@
 # pruebasyretos
-# Control de inventario 
-## Descripcion  
-Poder llevar control de los repuestos y herramientas que han sido utilizada para trabajos en maquinas especificas  
-Autor: Elias Muñoz
+# Control interno de inventario  
+Esta pagina web debe poder llevar control de los repuestos y herramientas que han sido utilizados para trabajos en maquinas especificas y asi garantizar orden en el uso de los elementos de la empresa y poder dar visual de manera grafica un reporte de estos datos recolectados.
+---
+Autor: **Elias Muñoz**
